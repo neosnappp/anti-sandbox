@@ -1,0 +1,1 @@
+if pcall(function() local p=game:GetService("Players").LocalPlayer if p then p:GetPropertyChangedSignal("FakeProperty") end end) then error("fail", 0) else print("pass") end

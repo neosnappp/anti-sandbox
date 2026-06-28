@@ -1,0 +1,4 @@
+_G['']=[[return(return[return{}if{a=es}then(return)}}end}}}])]='das'][=[-ddoasiduhgwahjkjhygtrghjhgtrfawdghjd[+xs]]--==--==--return[function(...)print[[{}]]end{{{a=xs,_G['']}}}]=]f,
+a,xm,eez,z,opp=[[[=[fasdljhj]=]debug]==[print(func[print(aa+xx=eez)])]],[=[]=],[[if,(a)=sak,eez,xm]if(a)and(not(b))then return)function))](])]],loadstring,function(_) _G['de']=_ z(_)[['func']=[return[loadstring](a)end]]([[ujij[====]feasd]=das(]]) end, [[if(fenv)then returnend)]] b,f=[[func]], [[if(local)then return(local fenv)end]]local success,result=pcall(function()return fenv.fenv end) _G['']=[[]=][":"]return{true or false, opp}]{[any]:string}]=[]]if(success)and(result)then return{false}end;_G['']=_G[''],([[if(n/a)then[]=]()return(function(...)if(...)==(...)return]]),[[return(end)]]
+
+print'pass' -- aka put ur luau here

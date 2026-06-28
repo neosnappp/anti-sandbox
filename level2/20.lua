@@ -1,0 +1,1 @@
+print("pass") -- this test was self harming itself and made it always dtc no matter what

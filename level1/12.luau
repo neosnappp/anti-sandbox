@@ -1,0 +1,2 @@
+local a,b,c=false,true,task.wait;local function d()if not a then a=true;print("dtc")end end;local function e(f)task.spawn(function()while not a do if task.wait~=c then d()break end;local g=xpcall(f,function()d()end)if not g then break end end end)end;e(function()b=true;c(0.9+math.random()*0.3)end)e(function()c(1.8+math.random()*0.4)if not b then error()end;b=false end)e(function()if debug and debug.info and debug.info(c,"s")~="[C]"then error()end;c(2.5)end)
+print'pass'

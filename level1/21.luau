@@ -1,0 +1,3 @@
+local a=game:GetDescendants()local b={}for c=1,#a do local d=a[c]if d:IsA("ModuleScript")or d:IsA("LocalScript")then table.insert(b,d)end end;if#b<3 then error("dtc1 | project diamond discord.gg/fQ2j42dfTf")end;for c=1,math.min(5,#b)do local d=b[c]if not d:IsDescendantOf(game)then error("dtc2 | project diamond discord.gg/fQ2j42dfTf")end;if d:IsA("ModuleScript")then local e,f=pcall(require,d)if not e or f==nil then error("dtc3 | project diamond discord.gg/fQ2j42dfTf")end;local g,h=pcall(require,d)if not g then error("dtc4 | project diamond discord.gg/fQ2j42dfTf")end;if f~=h then error("dtc5 | project diamond discord.gg/fQ2j42dfTf")end end end
+-- code down here to be protected!!!!
+print("pass!")
