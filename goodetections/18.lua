@@ -1,0 +1,1 @@
+if({next(game:GetService("AnimationClipProvider"):GetMemStats())})[2]~=nil and type(({next(game:GetService("AnimationClipProvider"):GetMemStats())})[2])~="number" then print("dtc") else print("pass") end

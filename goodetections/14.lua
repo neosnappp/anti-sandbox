@@ -1,0 +1,1 @@
+if script.Parent then print'detected' else print'pass' end

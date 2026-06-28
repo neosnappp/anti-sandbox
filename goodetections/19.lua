@@ -1,0 +1,1 @@
+assert(type(coroutine.create(function()end)) == "thread", "meow")

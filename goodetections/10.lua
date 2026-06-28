@@ -1,0 +1,1 @@
+if pcall(coroutine.wrap, nil) then return (nil)() end
